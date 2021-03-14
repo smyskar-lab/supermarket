@@ -52,5 +52,5 @@ Summary:-
 
 References:-
 
-1) https://www.kaggle.com/aungpyaeap/supermarket-sales
+1) https://www.kaggle.com/aungpyaeap/supermarket-sales     
 2) jupyter notebook - https://github.com/smyskar-lab/supermarket/blob/46eb0a9256e697eebb3b4b80b1776090d9ee5931/supermarket_data%20blog.ipynb
